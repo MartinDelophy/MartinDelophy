@@ -23,6 +23,7 @@ I enjoy the engineering between a model demo and a real product: ONNX graph opti
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) | A local-first browser AI video editor with voiceovers, Whisper captions, vision effects, talking avatars, a multi-track timeline, and MP4/WebM export. [Live demo →](https://video-editor.ai-creator.top/) | React, ONNX, WebGPU, WASM |
+| [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) | A continuously verified directory of active and upcoming AIGC contests for video, image, audio, writing, and AI applications, with automated expiry cleanup. | Python, GitHub Actions, JSON |
 | [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) | Separates vocals and instrumental audio directly in the browser. [Live demo →](https://ai-creator.top/vocalremove) | JavaScript, Web Audio, ML |
 | [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) | Browser-based colorization for old photographs. [Live demo →](https://ai-creator.top/photocolorize) | ONNX Runtime Web, HTML |
 | [**Depth Anything Web**](https://github.com/MartinDelophy/depth-anything-quantize) | Runs quantized monocular depth estimation in the browser. [Live demo →](http://depth-anything-quantize-myss.vercel.app) | ONNX, Computer Vision |
