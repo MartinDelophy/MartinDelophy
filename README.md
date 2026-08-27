@@ -1,58 +1,67 @@
 <div align="center">
 
-# Hi, I'm Martin 👋
+<a href="https://video-editor.ai-creator.top/">
+  <img src="assets/martin-delophy-browser-ai-lab.png" alt="Martin Delophy — Browser-native AI Lab. I make serious AI run inside the browser." width="100%" />
+</a>
 
-### I build local-first AI experiences that run in the browser.
+<br />
 
-**ONNX Runtime · WebGPU · React · Computer Vision · Creative Tools**
-
-[![Website](https://img.shields.io/badge/Website-ai--creator.top-0ea5e9?style=flat-square)](https://ai-creator.top/)
-[![DEV Community](https://img.shields.io/badge/DEV-@martindelophy-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/martindelophy)
-[![GitHub followers](https://img.shields.io/github/followers/MartinDelophy?style=flat-square&label=Followers)](https://github.com/MartinDelophy?tab=followers)
+[![Open Timeline Studio](https://img.shields.io/badge/OPEN_TIMELINE_STUDIO-ff5f9e?style=flat-square&logo=googlechrome&logoColor=white)](https://video-editor.ai-creator.top/)
+[![View source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/MartinDelophy/ai-video-editor)
+[![GitHub stars](https://img.shields.io/github/stars/MartinDelophy/ai-video-editor?style=flat-square&label=STARS&color=38bdf8)](https://github.com/MartinDelophy/ai-video-editor/stargazers)
 
 </div>
 
-## About me
+## Timeline Studio
 
-I'm exploring how far modern browsers can go as an AI application runtime. My work focuses on moving useful media and computer-vision workflows from servers to users' devices — reducing uploads, preserving privacy, and making advanced creative tools easier to access.
+**Open-source, local-first video editing where creators and AI agents work on the same real timeline.** Voice generation, captions, computer vision, subject isolation, effects, and export run as an editable browser workflow—not a collection of disconnected demos.
 
-I enjoy the engineering between a model demo and a real product: ONNX graph optimization, WebGPU/WASM inference, workers, model caching, media pipelines, timelines, and responsive interfaces.
+<a href="https://video-editor.ai-creator.top/">
+  <img src="assets/timeline-studio-editor.png" alt="Timeline Studio browser AI video editor with media, preview, AI voice controls, captions, audio waveforms, and a multitrack timeline" width="100%" />
+</a>
 
-## Featured work
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>LOCAL INFERENCE</strong><br />
+      ONNX Runtime, WebGPU, and WASM keep useful AI close to the user's device.
+    </td>
+    <td width="33%" valign="top">
+      <strong>EDITABLE TIMELINE</strong><br />
+      AI results become real clips, captions, effects, and keyframes—not flattened output.
+    </td>
+    <td width="33%" valign="top">
+      <strong>PRIVACY BY DESIGN</strong><br />
+      Media workflows avoid unnecessary uploads and preserve local control whenever possible.
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) | A local-first browser AI video editor with voiceovers, Whisper captions, vision effects, talking avatars, a multi-track timeline, and MP4/WebM export. [Live demo →](https://video-editor.ai-creator.top/) | React, ONNX, WebGPU, WASM |
-| [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) | A continuously verified directory of active and upcoming AIGC contests for video, image, audio, writing, and AI applications, with automated expiry cleanup. | Python, GitHub Actions, JSON |
-| [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) | Separates vocals and instrumental audio directly in the browser. [Live demo →](https://ai-creator.top/vocalremove) | JavaScript, Web Audio, ML |
-| [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) | Browser-based colorization for old photographs. [Live demo →](https://ai-creator.top/photocolorize) | ONNX Runtime Web, HTML |
-| [**Depth Anything Web**](https://github.com/MartinDelophy/depth-anything-quantize) | Runs quantized monocular depth estimation in the browser. [Live demo →](http://depth-anything-quantize-myss.vercel.app) | ONNX, Computer Vision |
-| [**EvoArm**](https://github.com/MartinDelophy/EvoArm) | An embodied-AI framework for controlling robotic arms with large language models. | Python, Robotics, LLMs |
+## Selected work
 
-## What I'm working on
+| Project | Signal |
+| --- | --- |
+| [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) · [Live demo](https://video-editor.ai-creator.top/) | Local-first browser AI video editor with a shared creator-and-agent timeline. |
+| [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) | Continuously verified directory of active creative AI competitions. |
+| [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) · [Live demo](https://ai-creator.top/vocalremove) | Browser-side vocal and instrumental separation. |
+| [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) · [Live demo](https://ai-creator.top/photocolorize) | Old-photo colorization with ONNX Runtime Web. |
+| [**Depth Anything Web**](https://github.com/MartinDelophy/depth-anything-quantize) · [Live demo](http://depth-anything-quantize-myss.vercel.app) | Quantized monocular depth estimation in the browser. |
 
-- Browser-native AI video creation with privacy-friendly local inference
-- ONNX model conversion, quantization, and WebGPU compatibility
-- Temporal computer vision for video rather than first-frame-only demos
-- Reliable browser media pipelines for speech, captions, audio, and export
-- Interfaces that turn research models into understandable creative tools
+## The thread through my work
 
-## Toolbox
+I explore how far the browser can go as a serious AI application runtime. The interesting part begins after the model demo: graph optimization, GPU/WASM inference, workers, caching, media pipelines, temporal vision, responsive interfaces, and product decisions that make advanced tools understandable.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
-![ONNX](https://img.shields.io/badge/ONNX-111827?style=flat-square&logo=onnx)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-111827?style=flat-square&logo=webassembly)
-![WebGPU](https://img.shields.io/badge/WebGPU-111827?style=flat-square&logo=googlechrome)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite)
+Right now I am focused on:
 
-## Let's connect
-
-If you're working on browser AI, ONNX, WebGPU, creative tooling, or local-first software, I'd love to exchange ideas. Explore the projects above, open an issue, or find more experiments at [ai-creator.top](https://ai-creator.top/).
+- browser-native AI video creation with privacy-friendly local inference;
+- temporal computer vision that understands more than the first frame;
+- reliable speech, caption, audio, and export pipelines;
+- creative interfaces that keep AI output editable.
 
 <div align="center">
 
-_Building AI tools that stay close to the user._
+### Build close to the user.
+
+[Website](https://ai-creator.top/) · [DEV Community](https://dev.to/martindelophy) · [Timeline Studio](https://video-editor.ai-creator.top/)
 
 </div>
