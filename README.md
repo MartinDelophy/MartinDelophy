@@ -14,25 +14,29 @@
 
 ## Timeline Studio
 
-**Open-source, local-first video editing where creators and AI agents work on the same real timeline.** Voice generation, captions, computer vision, subject isolation, effects, and export run as an editable browser workflow—not a collection of disconnected demos.
-
-<a href="https://video-editor.ai-creator.top/">
-  <img src="assets/timeline-studio-editor.png" alt="Timeline Studio browser AI video editor with media, preview, AI voice controls, captions, audio waveforms, and a multitrack timeline" width="100%" />
-</a>
-
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="62%" valign="top">
+      <a href="https://video-editor.ai-creator.top/">
+        <img src="assets/timeline-studio-editor.png" alt="Timeline Studio browser AI video editor with media, preview, AI voice controls, captions, audio waveforms, and a multitrack timeline" width="100%" />
+      </a>
+    </td>
+    <td width="38%" valign="top">
+      <h3>AI video editing—inside your browser.</h3>
+      <p>Creators and AI agents work on the same real timeline. Voice, captions, vision effects, and export stay editable instead of becoming flattened output.</p>
+      <p><strong>LOCAL-FIRST · OPEN SOURCE</strong></p>
+      <p>
+        <a href="https://video-editor.ai-creator.top/">Launch Studio →</a><br />
+        <a href="https://github.com/MartinDelophy/ai-video-editor">Explore the source →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <strong>LOCAL INFERENCE</strong><br />
-      ONNX Runtime, WebGPU, and WASM keep useful AI close to the user's device.
-    </td>
-    <td width="33%" valign="top">
-      <strong>EDITABLE TIMELINE</strong><br />
-      AI results become real clips, captions, effects, and keyframes—not flattened output.
-    </td>
-    <td width="33%" valign="top">
-      <strong>PRIVACY BY DESIGN</strong><br />
-      Media workflows avoid unnecessary uploads and preserve local control whenever possible.
+      ONNX Runtime, WebGPU, and WASM keep useful AI close to the user's device ·
+      <strong>EDITABLE TIMELINE</strong> turns AI results into real clips, captions, effects, and keyframes ·
+      <strong>PRIVACY BY DESIGN</strong> avoids unnecessary uploads and preserves local control.
     </td>
   </tr>
 </table>
