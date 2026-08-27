@@ -14,32 +14,15 @@
 
 ## Timeline Studio
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <a href="https://video-editor.ai-creator.top/">
-        <img src="assets/timeline-studio-editor.png" alt="Timeline Studio browser AI video editor with media, preview, AI voice controls, captions, audio waveforms, and a multitrack timeline" width="100%" />
-      </a>
-    </td>
-    <td width="38%" valign="top">
-      <h3>AI video editing—inside your browser.</h3>
-      <p>Creators and AI agents work on the same real timeline. Voice, captions, vision effects, and export stay editable instead of becoming flattened output.</p>
-      <p><strong>LOCAL-FIRST · OPEN SOURCE</strong></p>
-      <p>
-        <a href="https://video-editor.ai-creator.top/">Launch Studio →</a><br />
-        <a href="https://github.com/MartinDelophy/ai-video-editor">Explore the source →</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>LOCAL INFERENCE</strong><br />
-      ONNX Runtime, WebGPU, and WASM keep useful AI close to the user's device ·
-      <strong>EDITABLE TIMELINE</strong> turns AI results into real clips, captions, effects, and keyframes ·
-      <strong>PRIVACY BY DESIGN</strong> avoids unnecessary uploads and preserves local control.
-    </td>
-  </tr>
-</table>
+**AI video editing—inside your browser.** Creators and AI agents work on the same real timeline. Voice, captions, vision effects, and export stay editable instead of becoming flattened output.
+
+<a href="https://video-editor.ai-creator.top/">
+  <img src="assets/timeline-studio-editor-wide.png" alt="Timeline Studio browser AI video editor with media, preview, AI voice controls, captions, audio waveforms, and a multitrack timeline" width="100%" />
+</a>
+
+**LOCAL INFERENCE** with ONNX Runtime, WebGPU, and WASM · **EDITABLE TIMELINE** for real clips, captions, effects, and keyframes · **PRIVACY BY DESIGN** to avoid unnecessary uploads.
+
+[Launch Studio →](https://video-editor.ai-creator.top/) · [Explore the source →](https://github.com/MartinDelophy/ai-video-editor)
 
 ## Selected work
 
