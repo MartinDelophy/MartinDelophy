@@ -26,13 +26,11 @@
 
 ## Selected work
 
-| Project | Signal |
-| --- | --- |
-| [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) · [Live demo](https://video-editor.ai-creator.top/) | Local-first browser AI video editor with a shared creator-and-agent timeline. |
-| [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) | Continuously verified directory of active creative AI competitions. |
-| [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) · [Live demo](https://ai-creator.top/vocalremove) | Browser-side vocal and instrumental separation. |
-| [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) · [Live demo](https://ai-creator.top/photocolorize) | Old-photo colorization with ONNX Runtime Web. |
-| [**Depth Anything Web**](https://github.com/MartinDelophy/depth-anything-quantize) · [Live demo](http://depth-anything-quantize-myss.vercel.app) | Quantized monocular depth estimation in the browser. |
+- [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) · [Live demo](https://video-editor.ai-creator.top/) — local-first browser AI video editing on a shared creator-and-agent timeline.
+- [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) — a continuously verified directory of active creative AI competitions.
+- [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) · [Live demo](https://ai-creator.top/vocalremove) — browser-side vocal and instrumental separation.
+- [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) · [Live demo](https://ai-creator.top/photocolorize) — old-photo colorization with ONNX Runtime Web.
+- [**Depth Anything Web**](https://github.com/MartinDelophy/depth-anything-quantize) · [Live demo](http://depth-anything-quantize-myss.vercel.app) — quantized monocular depth estimation in the browser.
 
 ## The thread through my work
 
