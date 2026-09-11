@@ -27,6 +27,7 @@
 ## Selected work
 
 - [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) · [Live demo](https://video-editor.ai-creator.top/) — local-first browser AI video editing on a shared creator-and-agent timeline.
+- [**Awesome GPT-6 Astra**](https://github.com/MartinDelophy/awesome-gpt-6-astra) · [Play games](https://astragames.aigccreative.com/) — a community-curated collection of GPT-6 Astra games, with playable demos and creator stories.
 - [**Awesome AIGC Creative Contests**](https://github.com/MartinDelophy/Awesome-AIGC-Creative-Contests) — a continuously verified directory of active creative AI competitions.
 - [**Vocal Remover Web**](https://github.com/MartinDelophy/vocal-remover-web) · [Live demo](https://ai-creator.top/vocalremove) — browser-side vocal and instrumental separation.
 - [**DeOldify ONNX Web**](https://github.com/MartinDelophy/deoldify-onnx-web) · [Live demo](https://ai-creator.top/photocolorize) — old-photo colorization with ONNX Runtime Web.
