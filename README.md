@@ -24,6 +24,13 @@
 
 [Launch Studio →](https://video-editor.ai-creator.top/) · [Explore the source →](https://github.com/MartinDelophy/ai-video-editor)
 
+## Recognition
+
+🏆 **Summer Bug Smash Winner — Clear the Lineup (2026)**  
+One of five Clear the Lineup winners in DEV's Big Summer Bug Smash, powered by Sentry, for fixing a mobile click-through bug caused by unmounting a React portal on pointer down.
+
+[Official winner announcement →](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei) · [Read the debugging write-up →](https://dev.to/martindelophy/fixing-a-mobile-click-through-bug-caused-by-unmounting-a-react-portal-on-pointerdown-1104)
+
 ## Selected work
 
 - [**Timeline Studio**](https://github.com/MartinDelophy/ai-video-editor) · [Live demo](https://video-editor.ai-creator.top/) — local-first browser AI video editing on a shared creator-and-agent timeline.
